@@ -46,4 +46,10 @@ public class TesteQa {
 		
 	
 		}
+
+
+		private ResponseAwareMatcher<Response> ContainsString(String string) {
+			// TODO Auto-generated method stub
+			return null;
+		}
 }
